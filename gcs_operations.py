@@ -1,5 +1,5 @@
 __author__ = 'Tejas Bichave'
-__copyright__ = 'Copyright 2018, Searce'
+__copyright__ = 'Copyright 2018'
 __version__ = '1.0.0'
 __maintainer__ = 'Tejas Bichave'
 __email__ = 'tejas.bichave@searce.com'
